@@ -1,3 +1,22 @@
+# Realestate App
+
+App Screenshots
+
+![1](https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1743745205/IMG_0653_oxbatd.png)
+
+![2](https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1743745205/IMG_0650_oe5x9b.png)
+
+![3](https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1743745205/IMG_0651_d3jmsa.png)
+
+![4](https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1743745203/IMG_0652_nvf2dd.png)
+
+![5](https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1743745202/IMG_0649_f8vq9o.png)
+
+![6](https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1743745201/IMG_0648_l5svcq.png)
+
+
+
+
 # Welcome to your Expo app 👋
 
 ```npx create-expo-app@latest .
