@@ -4,20 +4,20 @@
 
 
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1743745205/IMG_0653_oxbatd.png" alt="1" style="width: 350px; height: 600px;" />
-  <img src="https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1743745205/IMG_0650_oe5x9b.png" alt="2" style="width: 350px; height: 600px;" />
-  <img src="https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1743745205/IMG_0651_d3jmsa.png" alt="3" style="width: 350px; height: 600px;" />
-  <img src="https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1743745203/IMG_0652_nvf2dd.png" alt="4" style="width: 350px; height: 600px;" />
-  <img src="https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1743745202/IMG_0649_f8vq9o.png" alt="5" style="width: 350px; height: 600px;" />
-  <img src="https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1743745201/IMG_0648_l5svcq.png" alt="6" style="width: 350px; height: 600px;" />
+<div style="display: flex; flex-wrap: wrap; gap: 30px;">
+  <img src="https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1743745205/IMG_0653_oxbatd.png" alt="1" style="width: 350px; height: 700px;" />
+  <img src="https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1743745205/IMG_0650_oe5x9b.png" alt="2" style="width: 350px; height: 700px;" />
+  <img src="https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1743745205/IMG_0651_d3jmsa.png" alt="3" style="width: 350px; height: 700px;" />
+  <img src="https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1743745203/IMG_0652_nvf2dd.png" alt="4" style="width: 350px; height: 700px;" />
+  <img src="https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1743745202/IMG_0649_f8vq9o.png" alt="5" style="width: 350px; height: 700px;" />
+  <img src="https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1743745201/IMG_0648_l5svcq.png" alt="6" style="width: 350px; height: 700px;" />
 </div>
 
 
 
 
 
-# Welcome to your Expo app 👋
+
 
 ```npx create-expo-app@latest .
 ```
